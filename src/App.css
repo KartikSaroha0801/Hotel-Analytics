@@ -35,4 +35,37 @@
   to {
     transform: rotate(360deg);
   }
+} */
+/* App.css
+
+/* Add styles for your MainComponent */
+.MainComponent {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+/* Add styles for the chart components */
+.chart-container {
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Customize styles for individual charts as needed */
+.CountryColumnChart {
+  background-color: #f0f0f0;
+}
+
+.TimeSeriesChart {
+  background-color: #f0f0f0;
+}
+
+.AdultVisitorsSparkline {
+  background-color: #f0f0f0;
+}
+
+.ChildrenVisitorsSparkline {
+  background-color: #f0f0f0;
 }
