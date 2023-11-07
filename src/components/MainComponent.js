@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import loadCSVData from '../data/DataLoader'; 
+import loadCSVData from '../data/dataLoader'; 
 import TimeSeriesChart from './TimeSeriesChart';
 import CountryColumnChart from './CountryColumnChart'; 
 import AdultVisitorsSparkline from './AdultVisitorsSparkline'; 

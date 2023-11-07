@@ -1,3 +1,5 @@
+import { HotelBooking } from "./types";
+
 // CSVParser.ts
 export class CSVParser {
   static parse(csv: string): HotelBooking[] {
